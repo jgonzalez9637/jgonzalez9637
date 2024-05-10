@@ -1,10 +1,10 @@
+<!--
 ### Hi there 👋
 
-<!--
 **jgonzalez9637/jgonzalez9637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 ### Hello! I'm José Daniel González 👋
 
 🎓 **Computer Engineering Student** passionate about **programming** and an enthusiast for learning something new every day.
